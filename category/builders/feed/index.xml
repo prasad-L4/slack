@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BUilders</title>
+	<atom:link href="https://prasad-l4.github.io/slack/category/builders/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prasad-l4.github.io/slack</link>
+	<description></description>
+	<lastBuildDate>Sun, 19 Nov 2023 07:45:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>https://prasad-l4.github.io/slack/wp-content/uploads/2023/11/brand_img06-Jim-Fahad-Digital.png</url>
+	<title>BUilders</title>
+	<link>https://prasad-l4.github.io/slack</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>7 Best free website builders</title>
+		<link>https://prasad-l4.github.io/slack/7-best-free-website-builders/</link>
+					<comments>https://prasad-l4.github.io/slack/7-best-free-website-builders/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 19 Nov 2023 07:45:01 +0000</pubDate>
+				<category><![CDATA[BUilders]]></category>
+		<guid isPermaLink="false">https://prasad-l4.github.io/slack/?p=198</guid>
+
+					<description><![CDATA[Lorem Ipsum&#160;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when...]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-left"><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s,</p>
+
+
+
+<p class="has-text-align-left"> when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into </p>
+
+
+
+<p class="has-text-align-left">electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and </p>
+
+
+
+<p class="has-text-align-left">more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+
+
+<p>mply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-</p>
+
+
+
+<p>Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in</p>
+
+
+
+<p> classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &#8220;de Finibus Bonorum et Malorum&#8221; (The Extremes of </p>
+
+
+
+<p>Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, &#8220;Lorem</p>
+
+
+
+<p> ipsum dolor sit amet..&#8221;, comes from a line in section 1.10.32.</p>
+
+
+
+<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from &#8220;de Finibus Bonorum et </p>
+
+
+
+<p>Malorum&#8221; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1280" height="720" src="https://prasad-l4.github.io/slack/wp-content/uploads/2023/11/Web-Design-Project-2-Jim-Fahad-Digital.jpg" alt="" class="wp-image-169"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prasad-l4.github.io/slack/7-best-free-website-builders/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
